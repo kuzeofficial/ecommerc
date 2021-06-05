@@ -6,7 +6,7 @@
 ## Introduction
 A simple e-commerce created in React.JS, using the commerce.js API
 
-### npm install package.json
+### `npm install package.json`
 
-### npm start
+### `npm start`
 
