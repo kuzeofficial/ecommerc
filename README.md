@@ -1,5 +1,5 @@
 # Look
-### [Live Site](https://commerce-js.netlify.app/)
+### [Live Site](https://e-comjs.netlify.app/)
 
 ![eCommerce](https://github.com/kuzeofficial/ecommerc/blob/fase/Screenshot%20(15).png)
 
